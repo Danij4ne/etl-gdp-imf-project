@@ -1,6 +1,20 @@
 
 # **Country GDP Data Pipeline**
 
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Library-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ETL Pipeline](https://img.shields.io/badge/ETL-Pipeline-27AE60?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-HTML_Parsing-8E44AD?style=for-the-badge)
+![Data Source](https://img.shields.io/badge/Data_Source-IMF-0A66C2?style=for-the-badge)
+![Output CSV](https://img.shields.io/badge/Output-CSV-F39C12?style=for-the-badge)
+![Output JSON](https://img.shields.io/badge/Output-JSON-16A085?style=for-the-badge)
+![Logging](https://img.shields.io/badge/Logging-Enabled-9B59B6?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Supported-3498DB?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-2ECC71?style=for-the-badge)
+
+
+
 This project implements a complete ETL pipeline designed to extract, transform, and load country-level GDP data retrieved from an IMF-referenced webpage. The workflow includes HTML table extraction, numeric standardization, structured storage, and validation through SQL querying. A full logging system captures each execution step to support automation, auditing, and reproducibility.
 
 ---
